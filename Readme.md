@@ -1,5 +1,7 @@
 # News Homepage - FM
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/679d6096-1da1-489c-bd50-ef6fe3fa29bd/deploy-status)](https://app.netlify.com/sites/news-homepage-fm-alvs/deploys)
+
 Homepage for a news blog website. Built with HTML and CSS.
 
 ## [Live preview](https://news-homepage-fm-alvs.netlify.app)
